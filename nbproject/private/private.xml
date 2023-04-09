@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/ReportsController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/AppointmentsMenuController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/MainMenuController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/models/Customer.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/Login.fxml</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/AddAppointmentsController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/models/User.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/CustomerMenuController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/languages/login_de.properties</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/LoginController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/AddCustomerController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/utils/SceneInterface.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/Reports.fxml</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/LogsController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/ModifyAppointmentsController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/utils/DBQuery.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/languages/login_es.properties</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/scheduler/Scheduler.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/ModifyCustomerController.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/utils/DBConnection.java</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/views/MainMenu.fxml</file>
+            <file>file:/C:/Users/hello/OneDrive/Documents/NetBeansProjects/Scheduler/src/models/Appointment.java</file>
+        </group>
+    </open-files>
+</project-private>

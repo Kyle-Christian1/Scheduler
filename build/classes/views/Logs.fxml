@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="views.LogsController">
+   <children>
+      <TextArea fx:id="loginTextArea" layoutX="-14.0" layoutY="74.0" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="326.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="74.0" />
+      <Label layoutX="230.0" layoutY="26.0" text="Login Attempts">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
